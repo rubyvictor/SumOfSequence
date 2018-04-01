@@ -7,15 +7,3 @@ const sequenceSum = (begin, end, step) => {
 };
 
 module.exports = sequenceSum;
-
-// let sum = 0;
-// for (let i=begin;i<=end;i+=step){
-// sum+=i;
-// }
-
-// let i=begin;
-// while (i<=end){
-// sum+=i;
-// i+=step
-// }
-// return sum
